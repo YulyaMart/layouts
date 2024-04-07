@@ -1,0 +1,17 @@
+.list-container {
+    box-sizing: border-box;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    height: 70px;
+    background-color: rgb(244, 244, 244);
+    margin-bottom: 1%;
+    padding: 10px
+}
+
+.list-content {
+    display: flex;
+    justify-content: space-between;
+    width: 80%;
+    align-items: center;
+}
